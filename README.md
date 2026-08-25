@@ -69,7 +69,7 @@ The dashboard provides analysis of:
 
 ## Dashboard Preview
 
-![Global Superstore Sales Dashboard](Screenshot%202026-08-25%20112026.png)
+-![Global Superstore Sales Dashboard](Global_Superstore_Dashboard1.png)
 
 ## Key Skills Demonstrated
 
@@ -85,8 +85,7 @@ The dashboard provides analysis of:
 ## Project Files
 
 - `Global_Superstore_Sales_Analytics.pbix` – Power BI dashboard
-- `Screenshot 2026-08-25 112026.png` – Dashboard preview
-
+- `Global_Superstore_Dashboard1.png` – Dashboard preview
 ## 📌 Project Outcome
 
 This project demonstrates the use of Power BI and DAX to transform raw sales data into an interactive business dashboard and generate meaningful insights for sales and profitability analysis.
