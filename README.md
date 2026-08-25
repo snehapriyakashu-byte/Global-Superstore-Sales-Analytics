@@ -69,7 +69,7 @@ The dashboard provides analysis of:
 
 ## Dashboard Preview
 
--![Global Superstore Sales Dashboard](Global_Superstore_Dashboard1.png)
+![Global Superstore Sales Dashboard](Global_Superstore_Dashboard1.png)
 
 ## Key Skills Demonstrated
 
